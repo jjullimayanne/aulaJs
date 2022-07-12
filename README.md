@@ -22,3 +22,6 @@ O npm é o Gerenciador de Pacotes do Node (Node Package Manager) que ajuda a int
 npm run test
 
 ~~~
+ #### Para saber um pouco mais sobre testes:
+ 
+[Teste unitário com Jest](https://www.devmedia.com.br/teste-unitario-com-jest/41234)
