@@ -7,7 +7,8 @@ const permitido = "ACESSO PERMITIDO";
 const negado = "ACESSO NEGADO";
 
 function validaSenha(senha) {
-
+    
+//escreva a sua solucao
 }
 
 module.exports = validaSenha;
