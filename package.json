@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "jest": "^28.1.2",
