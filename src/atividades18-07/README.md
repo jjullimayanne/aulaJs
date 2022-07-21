@@ -22,16 +22,26 @@ Dica: Neste exercício você pode precisar de ajuda do operador MÓDULO (%) voc�
 
 EX..
 
-1 ÍMPAR PRIMO 
-2 PAR PRIMO 
-3 ÍMPAR PRIMO
-4 PAR 
-5 ÍMPAR PRIMO
-6 PAR
-7 ÍMPAR PRIMO 
-8 PAR
-9 IMPAR PRIMO 
-10 PAR
+1 ÍMPAR PRIMO. 
+
+2 PAR PRIMO. 
+
+3 ÍMPAR PRIMO.
+
+4 PAR. 
+
+5 ÍMPAR PRIMO.
+
+6 PAR.
+
+7 ÍMPAR PRIMO.
+
+8 PAR.
+
+9 IMPAR PRIMO. 
+
+10 PAR.
+
 
 
 :pushpin: 7 - Escreva um programa javaScript para escrever o seguinte padrão na tela, com N linhas:
