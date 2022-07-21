@@ -36,11 +36,11 @@ EX..
 
 :pushpin: 7 - Escreva um programa javaScript para escrever o seguinte padrão na tela, com N linhas:
 
-*
-**
-***
-****
-*****
+    *
+    **
+    ***
+    ****
+    *****
 
 Onde N é um número maior que zero determinado pelo usuário (no exemplo, N=5).
 
