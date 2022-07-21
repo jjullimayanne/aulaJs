@@ -1,3 +1,4 @@
+
 let rs = require('readline-sync')
 
 let numberOne = parseInt(rs.question('Digite o primeior número :'))
@@ -11,4 +12,3 @@ if (numberOne > numbertow) {
 } else if (numberOne === numbertow) {
   console.log('os números são iguais')
 }
- 
